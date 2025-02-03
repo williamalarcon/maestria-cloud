@@ -1,0 +1,66 @@
+# --- Ignorar archivos de Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.env
+.vscode/
+.idea/
+*.log
+*.swp
+
+# --- Ignorar dependencias y entornos virtuales ---
+venv/
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+*.egg-info/
+dist/
+build/
+*.egg
+
+# --- Ignorar archivos de Node.js ---
+node_modules/
+npm-debug.log
+yarn-error.log
+*.lock
+
+# --- Ignorar archivos de Docker ---
+*.tar
+docker-compose.override.yml
+.env
+
+# --- Ignorar archivos de Postman ---
+.postman/
+.postman_globals.json
+.postman_environment.json
+
+# --- Ignorar archivos de configuración del sistema ---
+.DS_Store
+Thumbs.db
+
+# --- Ignorar dependencias de IDEs y editores ---
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# --- Ignorar imágenes y cache ---
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tiff
+*.ico
+*.gif
+__MACOSX/
+
+# --- Ignorar archivos de despliegue y compilación ---
+/frontend/build/
+/frontend/.next/
+/frontend/.cache/
+/backend/.pytest_cache/
+/backend/__pycache__/
+/backend/instance/
