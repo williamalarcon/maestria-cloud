@@ -61,3 +61,8 @@ docker-compose down
 Para eliminar volúmenes y datos persistentes:
 
 docker-compose down -v
+
+
+LINK VIDEO:
+
+https://uniandes-my.sharepoint.com/:v:/g/personal/w_alarcona_uniandes_edu_co/ETEzwzxZmc1FjCOBEmCmVNYBjztlmjHK7c9Ebhp8ePaavg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6ybAVH
